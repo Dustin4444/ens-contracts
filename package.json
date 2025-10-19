@@ -32,7 +32,7 @@
     "@ensdomains/hardhat-chai-matchers-viem": "^0.0.10",
     "@ensdomains/hardhat-toolbox-viem-extended": "0.0.5",
     "@namestone/ezccip": "^0.1.0",
-    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^4.1.0",
     "@safe-global/api-kit": "^2.5.6",
     "@safe-global/protocol-kit": "^5.1.1",
     "@safe-global/safe-core-sdk-types": "^5.1.0",
