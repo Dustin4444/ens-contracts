@@ -42,7 +42,7 @@
     "@safe-global/protocol-kit": "5.2.13",
     "@safe-global/safe-core-sdk-types": "^5.1.0",
     "@types/mocha": "^9.1.1",
-    "@types/node": "^18.0.0",
+    "@types/node": "^24.5.2",
     "@viem/anvil": "^0.0.10",
     "abitype": "^1.0.8",
     "chai": "^5.1.1",
